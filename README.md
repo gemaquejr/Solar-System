@@ -19,7 +19,8 @@ Essa aplicação simulará uma visualização do **Sistema Solar**, bem como inf
 - [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
 
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
-- [React](https://reactjs.org/)
+
+- [React](https://reactjs.org/): Biblioteca JavaScript para criar interfaces de usuário
 
 ## :hammer_and_wrench: Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
