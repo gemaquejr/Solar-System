@@ -30,4 +30,5 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu na
 ### `npm test`
 
 Inicia o executor de teste no modo de exibição interativa.
-Veja a seção sobre [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
+
+Veja a seção sobre [Executando testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
