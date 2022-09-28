@@ -2,7 +2,7 @@
 
 Aplicação em React com criação de componentes de classe e passagem de props.
 
-![preview](./solar-system/.github/preview.png)
+![preview](.github/preview.png)
 
 Essa aplicação simulará uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
 
