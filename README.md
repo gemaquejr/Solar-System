@@ -19,7 +19,11 @@ Essa aplicação simulará uma visualização do **Sistema Solar**, bem como inf
 
 ## :hammer_and_wrench: Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-No diretório do projeto, você pode executar:
+No diretório do projeto, instale as dependências e inicialize o projeto:
+
+### `npm install`
+
+Instala as dependências.
 
 ### `npm start`
 
