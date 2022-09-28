@@ -6,9 +6,13 @@ Aplicação em React com criação de componentes de classe e passagem de props.
 
 Essa aplicação simulará uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologia
 
-- ⚡ React is an open source JavaScript library focused on creating user interfaces on web pages.
+- ⚡ React é uma biblioteca JavaScript de código aberto focada na criação de interfaces de usuário em páginas da web.
+
+- ⚡ HTML é a linguagem base para se desenvolver qualquer site. 
+
+- ⚡ CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML.
 
 ## ✋🏻 Pré-requisitos
 
