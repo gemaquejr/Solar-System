@@ -16,3 +16,17 @@ Essa aplicação simulará uma visualização do **Sistema Solar**, bem como inf
 
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
 - [React](https://reactjs.org/)
+
+## :hammer_and_wrench: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+No diretório do projeto, você pode executar:
+
+### `npm start`
+
+Executa o aplicativo no modo de desenvolvimento.
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
+
+### `npm test`
+
+Inicia o executor de teste no modo de exibição interativa.
+Veja a seção sobre [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
